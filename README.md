@@ -1,6 +1,14 @@
-<h1>Hi 👋, I'm Ritwik Bhagat</h1>
-<p>A passionate full-stack developer skilled in React, Nextjs,Node.js, and Spring Boot, passionate about building scalable and user-friendly web applications.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1 align="center">Hi 👋, I'm Ritwik Bhagat</h1>
+<p align="center">A passionate Full-Stack Developer | React, Next.js, Node.js, Spring Boot | Building scalable & user-friendly web applications</p>
+
+---
+
+## 🚀 About Me
+- I'm a **full-stack developer** with a knack for creating robust, scalable web applications.
+- Skilled in **frontend & backend technologies**, cloud platforms, and CI/CD pipelines.
+- Always eager to **learn new technologies** and **contribute to impactful projects**.
+
+---
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
